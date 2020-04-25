@@ -1,0 +1,18 @@
+10 Million Calls of Each
+
+If the function is registered:
+For one argument, checking first was 32.9% slower
+For five arguments, checking first was 32.3% slower
+
+If the function is unregistered:
+For one argument, all at once was 28.6% slower
+For five arguments, all at once was 34.6% slower
+
+Time taken: 2188645 microseconds
+Time taken: 1646514 microseconds
+Time taken: 2298600 microseconds
+Time taken: 1737450 microseconds
+Time taken: 999779 microseconds
+Time taken: 1285788 microseconds
+Time taken: 1023510 microseconds
+Time taken: 1377552 microseconds
